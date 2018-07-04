@@ -1,6 +1,7 @@
 import React, { Component }  from 'react'
 import Clock from './Clock'
 import MyForm from './Form'
+import Combine from './combination'
 
 const name = 'qifa'
 const bool = false
@@ -48,6 +49,7 @@ class Test extends Component {
           {liNumbers}
         </ul>
         <MyForm />
+        <Combine />
       </section>
     )
   }

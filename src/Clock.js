@@ -25,7 +25,7 @@ class Clock extends Component {
     e.preventDefault()
     alert(content)
   }
-
+ 
   render () {
     return (
       <div>

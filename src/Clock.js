@@ -36,3 +36,13 @@ class Clock extends Component {
 }
 
 export default Clock
+
+// const addOne = () => {
+//   let count = 0
+//   return () => {
+//     console.log(++count)
+//   }
+// }
+// let a = addOne()
+// a() // 1
+// a() // 2

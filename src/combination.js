@@ -22,9 +22,6 @@ function Bb () {
 }
 
 class Combine extends React.Component {
-  constructor () {
-    super()
-  }
 
   render () {
     return (
